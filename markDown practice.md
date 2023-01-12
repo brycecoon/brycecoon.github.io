@@ -18,7 +18,6 @@
 
 Link to the same site on [Markdown Live Preview](https://markdownlivepreview.com/).
 
-\\\
-html <a href = "www.snow.edu">snow</a>
-\\\
-
+```html
+<a href = "www.snow.edu">snow</a>
+```
